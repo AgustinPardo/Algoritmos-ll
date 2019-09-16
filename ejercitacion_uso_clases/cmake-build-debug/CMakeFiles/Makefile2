@@ -50,19 +50,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/agustin/Downloads/clion-2019.2.1/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/agustin/Downloads/clion-2019.2/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/agustin/Downloads/clion-2019.2.1/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/agustin/Downloads/clion-2019.2/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases
+CMAKE_SOURCE_DIR = /home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug
+CMAKE_BINARY_DIR = /home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/tests_algobot.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso
 CMakeFiles/tests_algobot.dir/all:
 	$(MAKE) -f CMakeFiles/tests_algobot.dir/build.make CMakeFiles/tests_algobot.dir/depend
 	$(MAKE) -f CMakeFiles/tests_algobot.dir/build.make CMakeFiles/tests_algobot.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target tests_algobot"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target tests_algobot"
 .PHONY : CMakeFiles/tests_algobot.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/tests_algobot.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests_algobot.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests_algobot.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/tests_algobot.dir/rule
 
 # Convenience name for target.
@@ -108,7 +108,7 @@ clean: CMakeFiles/tests_algobot.dir/clean
 CMakeFiles/tests_ejercitacion.dir/all:
 	$(MAKE) -f CMakeFiles/tests_ejercitacion.dir/build.make CMakeFiles/tests_ejercitacion.dir/depend
 	$(MAKE) -f CMakeFiles/tests_ejercitacion.dir/build.make CMakeFiles/tests_ejercitacion.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles --progress-num=4,5,6 "Built target tests_ejercitacion"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles --progress-num=4,5,6 "Built target tests_ejercitacion"
 .PHONY : CMakeFiles/tests_ejercitacion.dir/all
 
 # Include target in all.
@@ -118,9 +118,9 @@ all: CMakeFiles/tests_ejercitacion.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/tests_ejercitacion.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/tests_ejercitacion.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/tests_ejercitacion.dir/rule
 
 # Convenience name for target.

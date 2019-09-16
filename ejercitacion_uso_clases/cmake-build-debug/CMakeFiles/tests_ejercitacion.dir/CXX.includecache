@@ -20,7 +20,7 @@ vector
 algobot.h
 ../src/algobot.h
 
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/catch.hpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/catch.hpp
 TargetConditionals.h
 -
 ciso646
@@ -282,7 +282,7 @@ string
 memory
 -
 Foundation/Foundation.h
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/Foundation/Foundation.h
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/Foundation/Foundation.h
 algorithm
 -
 random
@@ -466,11 +466,11 @@ algorithm
 cassert
 -
 
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/tests_funciones.cpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/tests_funciones.cpp
 catch.hpp
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/catch.hpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/catch.hpp
 funciones.cpp
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/funciones.cpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/funciones.cpp
 set
 -
 

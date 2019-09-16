@@ -1,4 +1,4 @@
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir

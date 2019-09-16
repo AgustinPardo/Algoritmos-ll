@@ -141,10 +141,27 @@ vector<char> traducir(vector<pair<char, char>> tr, vector<char> str) {
 
 // Ejercicio 10
 bool integrantes_repetidos(vector<Mail> s) {
-    return true;
+    bool check = false;
+    for (int i = 0; i < s.size() & !check ; ++i) {
+        set<LU> LUs ;
+        LUs = s[i].libretas();
+        for (LU LU1 : LUs) {
+            for (int j = i+1; j < s.size() & !check ; ++j) {
+                set<LU> LUs2 ;
+                LUs2 = s[j].libretas();
+                for (LU  LU2 : LUs2){
+                    if (LU1 == LU2 & LUs2 != LUs){
+                        check= true;
+                    }
+                }
+            }
+        }
+    }
+    return check;
 }
 
 // Ejercicio 11
 map<set<LU>, Mail> entregas_finales(vector<Mail> s) {
   return map<set<LU>, Mail>();
+
 }

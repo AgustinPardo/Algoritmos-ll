@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/src/algobot.cpp" "/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir/src/algobot.cpp.o"
-  "/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/tests_algobot.cpp" "/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.o"
+  "/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/src/algobot.cpp" "/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir/src/algobot.cpp.o"
+  "/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/tests_algobot.cpp" "/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

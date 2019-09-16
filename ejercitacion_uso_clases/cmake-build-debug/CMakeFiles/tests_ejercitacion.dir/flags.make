@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/src -I/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests 
+CXX_INCLUDES = -I/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/src -I/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests 
 

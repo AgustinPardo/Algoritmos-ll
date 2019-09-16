@@ -14,15 +14,15 @@ set
 map
 -
 
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/src/algobot.cpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/src/algobot.cpp
 algobot.h
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/src/algobot.h
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/src/algobot.h
 iostream
 -
 sstream
 -
 
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/src/algobot.h
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/src/algobot.h
 string
 -
 set
@@ -30,7 +30,7 @@ set
 map
 -
 
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/catch.hpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/catch.hpp
 TargetConditionals.h
 -
 ciso646
@@ -292,7 +292,7 @@ string
 memory
 -
 Foundation/Foundation.h
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/Foundation/Foundation.h
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/Foundation/Foundation.h
 algorithm
 -
 random
@@ -476,9 +476,9 @@ algorithm
 cassert
 -
 
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/tests_algobot.cpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/tests_algobot.cpp
 catch.hpp
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/catch.hpp
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/catch.hpp
 algobot.h
-/home/agustin/Desktop/laboratorio/Ejercicios/ejercitacion_uso_clases/tests/algobot.h
+/home/agustin/workspace/Algoritmos-II/Algoritmos-ll/ejercitacion_uso_clases/tests/algobot.h
 
