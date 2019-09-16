@@ -162,7 +162,51 @@ bool integrantes_repetidos(vector<Mail> s) {
 
 // Ejercicio 11
 map<set<LU>, Mail> entregas_finales(vector<Mail> s) {
-  return map<set<LU>, Mail>();
+    map<set<LU>, Mail> salida;
 
-  
+    for (int i = 0; i < s.size(); ++i) {
+        set<LU> LUs ;
+        LUs = s[i].libretas();
+
+        Fecha fecha1;
+        fecha1 =  s[i].fecha();
+
+        Mail aux_mail;
+        set<LU> aux_LU;
+
+        if(s[i].adjunto()){
+            aux_mail = s[i];
+            aux_LU = LUs;
+        }
+        for (int j = i+1; j < s.size(); ++j) {
+            set<LU> LUs2 ;
+            LUs2 = s[j].libretas();
+
+            Fecha fecha2;
+            fecha2 =  s[j].fecha();
+
+            if (LUs == LUs2 & fecha1<fecha2 & s[j].adjunto()){
+
+                aux_mail = s[j];
+                aux_LU = LUs;
+                fecha1 = fecha2;
+                }
+        }
+    salida[aux_LU]=aux_mail;
+    }
+  return salida;
 }
+
+/*map<int, set<int>> salida;
+for (int n : s) {
+int group = n % 10;
+
+if (salida.count(group) == 1){
+salida[group].insert(n);
+} else{
+set<int> aux_set;
+aux_set.insert(n);
+salida[group] =  aux_set;
+}
+}
+return salida;*/
